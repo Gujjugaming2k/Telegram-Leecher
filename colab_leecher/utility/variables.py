@@ -74,7 +74,7 @@ class Paths:
     VIDEO_FRAME = f"{WORK_PATH}/video_frame.jpg"
     HERO_IMAGE = f"{WORK_PATH}/Hero.jpg"
     DEFAULT_HERO =  "/content/Telegram-Leecher/custom_thmb.jpg"
-    MOUNTED_DRIVE = "/content/drive"
+    MOUNTED_DRIVE = "/opt/Rclone_Drive/w1928440"
     down_path = f"{WORK_PATH}/Downloads"
     temp_dirleech_path = f"{WORK_PATH}/dir_leech_temp"
     mirror_dir = "/content/drive/MyDrive/Colab Leecher Uploads"
