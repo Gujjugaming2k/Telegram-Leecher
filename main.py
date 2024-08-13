@@ -90,4 +90,5 @@ if os.path.exists("/content/Telegram-Leecher/my_bot.session"):
     
 print("\rStarting Bot....")
 
-!cd /content/Telegram-Leecher/ && python3 -m colab_leecher #type:ignore
+# Run the command
+subprocess.run(["python3", "-m", "colab_leecher"])
